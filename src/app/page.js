@@ -75,7 +75,7 @@ export default function Home() {
       <Link
         target="_blank"
         className="fixed right-2 top-2 w-max"
-        href="https://github.com/dilkhush/doitlist"
+        href="https://github.com/dilkhush-raj/doitlist"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
